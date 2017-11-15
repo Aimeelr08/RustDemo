@@ -1,7 +1,6 @@
 # My First RustDemo
 Rust Code Sample
-![alt text](https://en.wikipedia.org/wiki/Rust_(programming_language)#/media/File:Rust_programming_language_black_logo.svg
-)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/480px-Rust_programming_language_black_logo.svg.png)
 ==================
 tools used:
 https://play.rust-lang.org/
